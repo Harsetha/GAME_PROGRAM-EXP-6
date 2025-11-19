@@ -39,6 +39,7 @@ Root
         Create a new BTTask_BlueprintBase to get a random reachable point using:
             UNavigationSystemV1::GetRandomReachablePointInRadius()
         Set the result to the TargetLocation blackboard key.
+ 
  7. Test the AI
          Add a player character to the level.
          Place the AI enemy in the map and assign its controller and behavior tree.
